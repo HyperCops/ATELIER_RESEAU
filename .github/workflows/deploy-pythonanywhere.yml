@@ -1,3 +1,4 @@
+#start
 name: Deploy to PythonAnywhere (recursive upload)
 
 on:
